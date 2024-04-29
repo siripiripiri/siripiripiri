@@ -5,7 +5,7 @@
 
 -->
 
-📊 GitHub Stats:[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=siripiripiri)](https://github.com/siripiripiri/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siripiripiri&layout=donut)](https://github.com/siripiripiri/github-readme-stats) <br/>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=siripiripiri)](https://github.com/siripiripiri/github-contribution-stats/)
 <br><br>
 ## Profile Visits: <br> ![](https://profile-counter.glitch.me/siripiripiri/count.svg)
