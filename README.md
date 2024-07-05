@@ -1,4 +1,5 @@
 ### Hi! This is Srijan :3
+#### Currently learning Swift.
 
 <!--
 **siripiripiri/siripiripiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
