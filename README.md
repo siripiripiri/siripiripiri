@@ -1,6 +1,5 @@
-<div>
-<h3 style="color: #F7EBCA"> Hi! This is Srijan :3 </h3>
-</div>
+### Hi! This is Srijan :3 
+
 [![siripiripiri](https://readme-typing-svg.demolab.com?font=instrument+serif&weight=300&pause=2000&color=F7EBCA&random=true&width=435&lines=I'm+an+AI+and+Data+Science+Engineer.)](https://github.com/siripiripiri)
 #### Currently learning Swift.
 
