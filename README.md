@@ -1,7 +1,7 @@
 ### Hi! This is Srijan :3 
 
 
-[![siripiripiri](https://readme-typing-svg.demolab.com?font=instrument+serif&weight=300&pause=2000&color=F7EBCA&random=true&width=435&lines=I'm+an+AI+and+Data+Science+Engineer.)](https://github.com/siripiripiri)
+[![siripiripiri](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=-2px&pause=998&color=C387F7&repeat=false&width=435&lines=I'm+a+Data+Science+Engineer.)](https://github.com/siripiripiri)
 #### Currently learning Swift.
 
 <!--
